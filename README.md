@@ -1,4 +1,4 @@
 appchan
 =======
 
-aplicacion de chan
+Aplicación app Edwin Martin Chan Chi
